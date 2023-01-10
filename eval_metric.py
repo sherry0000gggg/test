@@ -2,7 +2,6 @@
 
 
 import torch
-print('我很不好，怎么说')
 
 
 def span_f1(predicts,span_label_ltoken,real_span_mask_ltoken):
